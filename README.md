@@ -9,7 +9,7 @@
 - [Introduction](#introduction)
 - [Framing the Business Scenario](#framing-the-business-scenario)
 - [Creating Effective Visuals](#creating-effective-visuals)
-- [Insights and Recommendations](#insights-and-Recommendations)
+- [Insights and Recommendations](#insights-and-recommendations)
 - [Certification](#certification)
 
 # Introduction
@@ -31,7 +31,8 @@ There are Four tasks in this virtual internship programme
   4.  Communicating insights and Analysis
 
 ## Dataset 
-The dataset provided had **541910** records from **38** countries with United kingdom being their 
+
+The dataset contained 541,910 records spanning 38 countries, with the majority of stores located in the United Kingdom and hence is excluded in the report as to concentrate on the countries with potential for expansion.
 
 Sample dataset:
 ![image](https://github.com/puliraghavi/Tata-Sales-analysis-Forage-/assets/119037510/12a42962-95f6-4cc8-9f22-2069f38736f9)
@@ -86,9 +87,21 @@ Link to the live dashboard - https://www.novypro.com/project/online-retail-store
 1. In the first page of the report I have created overview of the stores sales, by calculating and displaying the key performance indicators such as revenue, total orders, top customers, etc.
 2. Total of **20k orders** were placed across 35+ countries generating **$11M revenue** during the years mid 2010 to 2011.
 3. The store operates online and sells over 4000 products of which **6M quantities** were sold.
-4. The most revenue generated was in the month of **October -2011** ($216K).
+4. The most revenue generated was in the month of **Nov -2011** ($1.5M).
 5. Upon visualizing the data for the top 10 customers, it becomes evident that **customer_id 14646** contributes the highest revenue.
-6. 
+6. The highest revenue generating product was found to be **Paper Crafted little birdie**.
+7. To help the organisation in planning their expansion strategy, a page to view overall contribution by each country was created in which united kingdom was excluded.
+8. The Top 5 countries based on revenue were found to be -**Netherlands, Ireland, Germany, France, Australia**
+9. It is recommeded to the organisation to open more stores in the above countries to boost revenue.
+10. **More awareness, Ad campaigns** should be promoted in countries that are at the lower end of top 10 list such as japan, sweden and belgium
+11. The months of **February and April consistently exhibit the lowest sales** figures. Further investigation is required to identify the contributing factors and implement necessary adjustments
+
+***
+
+# Certification
+
+![tata cert jpg](https://github.com/puliraghavi/Tata-Sales-analysis-Forage-/assets/119037510/86f80143-6746-497f-be17-383e957f17ef)
+
 
 
 
